@@ -7,4 +7,4 @@ draft = true
 
 This is **bold** text, and this is *emphasized* text.
 
-Visit the [Hugo](https://gohugo.io) website!
+Visit the [Linkedin](https://linkedin.com/in/reginald-appiah) website!
